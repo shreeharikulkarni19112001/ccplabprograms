@@ -33,3 +33,23 @@ int main()
 		}
 	}
 }
+OUTPUT
+1.enter the string
+gadag
+string is palindrome
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
+
+2.enter the string
+KULKARNI
+string is not a palindrome
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
