@@ -46,5 +46,17 @@ int main()
 			
 		}
 	}
-	
 
+
+OUTPUT
+enter the first string
+Shreehari
+enter the second string
+Kulkarni
+concatenated string is
+ShreehariKulkarni
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
