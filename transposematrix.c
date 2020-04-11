@@ -38,3 +38,24 @@ int main()
 		printf("\n");
 	}
 }
+OUTPUT
+enter the number of column
+2
+enter the number of rows
+3
+enter the elements of matrix
+1 2 3
+4 5 6
+elements of array are
+1 2 3
+4 5 6
+elements of transposed matrix are
+1 4
+2 5
+3 6
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
