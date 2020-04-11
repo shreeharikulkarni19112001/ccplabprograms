@@ -18,9 +18,7 @@ int main()
 	printf("enter the basic salary of employee\n");
 	scanf("%f",&e.salary);
 	printf("enter the grade of employee\n");
-	scanf("%s",e.grade);
-	
-	
+	scanf("%s",e.grade);	
 	printf("******EMPLOYEE DETAILS********\n");
 	printf("Name of employee is %s\n",e.name);
 	printf("Employee id of employee is %s\n",e.emp_id);
@@ -28,3 +26,23 @@ int main()
 	printf("Grade of employee is %s\n",e.grade);
 }
 	
+OUTPUT
+enter the name of employee
+SHREEHARI
+enter the employee id
+1BM19CS153
+enter the basic salary of employee
+50000
+enter the grade of employee
+A
+******EMPLOYEE DETAILS********
+Name of employee is SHREEHARI
+Employee id of employee is 1BM19CS153
+Salary of employee is 50000.000000
+Grade of employee is A
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
